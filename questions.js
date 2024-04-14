@@ -38,7 +38,7 @@ let questions = [
     },
     {
         numb: 32,
-        question: "PUBG Mobile Menggunkan Unreal Engine Ke Berapa?",
+        question: "PUBG Mobile Menggunakan Unreal Engine Ke Berapa?",
         answer: "Unreal Engine 4",
         options: ["Unreal Engine 1", "Unrea; Engine 2", "Unreal Engine 3", "Unreal Engine 4"]
     },
