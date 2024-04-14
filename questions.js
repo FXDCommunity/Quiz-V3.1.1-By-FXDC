@@ -44,7 +44,7 @@ let questions = [
     },
     {
         numb: 33,
-        question: "Stardew Valley Di Buar Oleh Berapa Orang?",
+        question: "Stardew Valley Di Buat Oleh Berapa Orang?",
         answer: "1 Orang",
         options: ["2 Orang", "1 Orang", "4 Orang", "3 Orang"]
     },
