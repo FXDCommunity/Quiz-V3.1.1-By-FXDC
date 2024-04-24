@@ -60,6 +60,14 @@ let questions = [
         answer: "19 September 2005",
         options: ["19 September 2005", "20 September 2005", "21 September 2005", "22 September 2005"]
     },
+    {
+        numb: 36,
+        question: "reza anak?",
+        answer: "zaini", 
+        options: ["zaini", "zaini", "zaini", "zaini"]
+    }
+
+
     // you can uncomment the below codes and make duplicate as more as you want to add question
     // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
