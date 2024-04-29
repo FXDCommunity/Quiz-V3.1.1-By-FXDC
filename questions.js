@@ -59,12 +59,6 @@ let questions = [
         question: "Mortal Kombat Shaolin Monks Rilis Pada?",
         answer: "19 September 2005",
         options: ["19 September 2005", "20 September 2005", "21 September 2005", "22 September 2005"]
-    },
-    {
-        numb: 36,
-        question: "reza anak?",
-        answer: "zaini", 
-        options: ["zaini", "zaini", "zaini", "zaini"]
     }
 
 
